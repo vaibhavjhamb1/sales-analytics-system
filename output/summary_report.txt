@@ -1,0 +1,7 @@
+=====================================
+SALES ANALYTICS REPORT
+=====================================
+Total Transactions: 0
+Total Revenue: $0.00
+Sample Product Category: N/A
+=====================================
